@@ -1,0 +1,14 @@
+{
+    "trainees":[
+        {
+            "id":"01","name":"Thandeka", "surname":"Mazibuko", "color":"black", "location":"PMB", "gender":"female"
+        },
+        {
+           "id":"02","name":"Sindiswa", "surname":"Mazibuko", "color":"pink", "location":"NN", "gender":"female" 
+        },
+
+        {
+            "id":"03","name":"Nomfundo", "surname":"Mazibuko", "color":"red", "location":"Estcourt", "gender":"female" 
+         }
+    ]
+}
